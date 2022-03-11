@@ -1,2 +1,2 @@
-# bimm142
-bioinformatics class
+# bggn213
+bioinformatics class at UC San Diego. 
